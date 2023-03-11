@@ -109,7 +109,7 @@ after calculation of it, transports the related data to:
             ```
     where the boundary is used explicit to process(which is limited quantity, for improving computing volecity)
     
-    <img src="/result/ADI_HEAT.bmp" width = "80%" /> 
+    <img src="/result/heat_adi.png" width = "80%" /> 
       
     1. Neumann is talked as following:
           
